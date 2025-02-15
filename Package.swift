@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "TensorFlowLiteSwift",
-    platforms: [.iOS(.v9)],
+    platforms: [.iOS(.v16)],
     products: [
         .library(
             name: "TensorFlowLiteSwift",
